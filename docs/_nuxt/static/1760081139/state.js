@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Ftest_PCT_HP\u002F_nuxt\u002Fstatic\u002F1760081139",layout:"home",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Ftest_PCT_HP\u002F",assetsPath:"\u002Ftest_PCT_HP\u002F_nuxt\u002F",cdnURL:a}}}}(null));
