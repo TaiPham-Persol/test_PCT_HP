@@ -10,7 +10,7 @@ PERSOL CAREER is a core company of the PERSOL Group—one of Japan's largest HR 
 
 PERSOL CAREER TECH STUDIO VIETNAM is the studio to create new services related to "WORK". We are responsible for developing various service systems provided by PERSOL CAREER, including:
 
-- **doda** - A recruitment platform with approximately 9.5 million users
+- **doda** - A recruitment platform with millions of users
 - **PERSOL MIRAIZ** - New HR services
 - **HR Spanner** - HR management solutions
 
