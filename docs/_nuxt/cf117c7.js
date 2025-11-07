@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{589:function(e,n,t){"use strict";t.r(n);var o=t(0).default.extend({name:"IndexPage",layout:"home"}),l=t(8),component=Object(l.a)(o,function(){var e=this._self._c;this._self._setupProxy;return e("HomeContent")},[],!1,null,null,null);n.default=component.exports;installComponents(component,{HomeContent:t(587).default})}}]);
