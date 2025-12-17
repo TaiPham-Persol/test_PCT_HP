@@ -33,7 +33,7 @@ jobs:
           node-version: "20"
 
       - name: test
-        run: node createFile.js mynewfile.txt
+        run: touch filename.txt
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
