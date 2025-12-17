@@ -9,6 +9,11 @@ const keywords = ['PERSOL CAREER TECH STUDIO VIETNAM', 'PERSOL CAREER', 'TECH ST
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  
+  router: {
+    base: '/test_PCT_HP' // Sets the base URL for the application's routes
+  },
+
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
