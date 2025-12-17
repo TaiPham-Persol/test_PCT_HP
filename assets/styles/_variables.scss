@@ -1,0 +1,58 @@
+/* Figma Styles - Shared CSS Variables */
+:root {
+  /* Colors */
+  --white: #ffffff;
+  --gray00: #f8f8f7;
+  --gray01: #ebebe8;
+  --gray02: #bbbcbc;
+  --gray03: #97999b;
+  --gray04: #53565a;
+  --gray05: #e5e5e5;
+  --gray06: #e8e8e5;
+  --black: #333333;
+  --black01: 0 0 0;
+  --yellow: #ffb81c;
+  --green: #00bfb3;
+  --linear: linear-gradient(
+    97.74deg,
+    rgba(255, 184, 28, 1) 0%,
+    rgba(232, 209, 157, 1) 48.92473518848419%,
+    rgba(26, 206, 195, 1) 100%
+  );
+  --style: radial-gradient(
+    closest-side,
+    rgba(255, 223, 101, 1) 0%,
+    rgba(255, 184, 28, 1) 100%
+  );
+
+  /* Fonts */
+  --roboto-font-family: Roboto, sans-serif;
+  --notosan-font-family: Noto Sans, sans-serif;
+
+  /* Effects */
+  --drop-shadow-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.15);
+}
+
+/* Figma Color Variables */
+:root,
+[data-primitives-mode='mode-1'] {
+  /* mode-1 */
+  --color-neutral-lightest: #eeeeee;
+  --color-neutral-darkest: #000000;
+  --color-white: #ffffff;
+  --color-neutral-darker: #222222;
+}
+
+[data-color-schemes-mode='mode-1'] {
+  /* mode-1 */
+  --color-scheme-1-foreground: var(--color-white);
+  --color-scheme-1-text: var(--color-neutral-darkest);
+  --color-scheme-1-background: var(--color-white);
+  --color-scheme-1-border: var(--color-neutral-darkest);
+}
+
+body {
+  max-width: 1920px;
+  margin: 0 auto !important;
+  overflow-x: hidden;
+}

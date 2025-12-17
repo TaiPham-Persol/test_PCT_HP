@@ -1,0 +1,7 @@
+/docs
+/node_modules
+.nuxt
+nuxt.config.js
+.eslintrc.js
+README.md
+tsconfig.json
