@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/awards-recognition", {data:[{}],fetch:{},mutations:void 0});
